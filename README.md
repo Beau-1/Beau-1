@@ -1,6 +1,6 @@
 ### Hello there 
 
-Software Engineer | Specializing in C# and .NET Framework and APIs | 
+Software Engineer | Focusing in JavaScript | 
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@ Software Engineer | Specializing in C# and .NET Framework and APIs |
 
 Who am I?:
 
-I am a software engineer working in C# and the .Net framework to build projects that showcase my abilities to create reliable APIs.
+I am a software engineer working in JavaScript and learning Tailwind and React to strengthen my skills and increase my learning velocity.
 
 Currently I am searching for my first role in the technology field.
 
